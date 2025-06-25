@@ -1,12 +1,26 @@
-# React + Vite
+# 🧼 DansLaundry-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DansLaundry-React** is a clean and responsive frontend website for **Dans Laundry**, built using **React.js**. This project serves as a **company profile** to showcase Dans Laundry’s services, pricing, and contact information in a modern and user-friendly design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+- 🧾 **Service Showcase** – Display available laundry services with descriptions and pricing.
+- 🖼️ **Landing Page** – Attractive homepage with brand identity.
+- 📱 **Responsive Design** – Optimized for desktop and mobile views.
+- 💡 **Simple Navigation** – Easy-to-use layout and routing.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Component-based frontend library
+- **React Router** – For navigation between pages
+- **Vite / Create React App** – Project setup and development server
+
+---
+
+## 🔍 Purpose
+
+This project was created as a **frontend-only solution** to represent the branding and offerings of Dans Laundry. No backend or database integration is included.
